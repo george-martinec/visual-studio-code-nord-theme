@@ -11,3 +11,7 @@
 | Windows 	| `%USERPROFILE%\.vscode\extensions` |
 | macOS   	| `~/.vscode/extensions`             |
 | Linux   	| `~/.vscode/extensions`             |
+
+---
+
+![Visual Studio Code](https://github.com/george-martinec/visual-studio-code-nord-theme/blob/main/code.png)
