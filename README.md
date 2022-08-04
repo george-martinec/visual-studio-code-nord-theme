@@ -1,1 +1,1 @@
-# Nord
+# Visual Studio Code Nord Theme
